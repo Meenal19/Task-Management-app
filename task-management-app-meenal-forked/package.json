@@ -1,0 +1,37 @@
+{
+  "name": "task-management-app-meenal",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/components/index.tsx",
+  "dependencies": {
+    "@isaacs/string-locale-compare": "1.1.0",
+    "material-icons-react": "1.0.4",
+    "mobx": "5.15.4",
+    "mobx-react": "6.2.2",
+    "react": "^16.12.0",
+    "react-datepicker": "4.7.0",
+    "react-dom": "^16.12.0",
+    "react-icons": "4.3.1",
+    "react-outside-click-handler": "1.3.0",
+    "react-scripts": "3.3.0",
+    "react-select": "5.2.2",
+    "satcheljs": "4.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
